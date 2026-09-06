@@ -269,6 +269,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1280-students-and-examinations](https://github.com/mayo-byte07/DSA-Python/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/mayo-byte07/DSA-Python/tree/master/1341-movie-rating) |
 | [1729-find-followers-count](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1729-find-followers-count) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Game Theory
 |  |
 | ------- |
