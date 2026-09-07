@@ -272,6 +272,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1193-monthly-transactions-i](https://github.com/mayo-byte07/DSA-Python/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/mayo-byte07/DSA-Python/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/mayo-byte07/DSA-Python/tree/master/1341-movie-rating) |
+| [1683-invalid-tweets](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
