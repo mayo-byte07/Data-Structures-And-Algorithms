@@ -268,6 +268,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0620-not-boring-movies](https://github.com/mayo-byte07/DSA-Python/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/mayo-byte07/DSA-Python/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1070-product-sales-analysis-iii) |
+| [1148-article-views-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/mayo-byte07/DSA-Python/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/mayo-byte07/DSA-Python/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/mayo-byte07/DSA-Python/tree/master/1341-movie-rating) |
