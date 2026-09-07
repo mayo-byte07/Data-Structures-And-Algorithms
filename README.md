@@ -30,6 +30,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
@@ -105,6 +106,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0205-isomorphic-strings](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0383-ransom-note](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0940-distinct-subsequences-ii) |
@@ -118,6 +120,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0014-longest-common-prefix](https://github.com/mayo-byte07/DSA-Python/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
 ## Stack
 |  |
@@ -292,6 +295,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0022-generate-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0216-combination-sum-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -347,6 +351,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
+| [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
