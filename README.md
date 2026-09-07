@@ -38,6 +38,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0724-find-pivot-index](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1732-find-the-highest-altitude) |
@@ -347,6 +348,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0101-symmetric-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
+| [0994-rotting-oranges](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -354,6 +356,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | ------- |
 | [0036-valid-sudoku](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
+| [0994-rotting-oranges](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
