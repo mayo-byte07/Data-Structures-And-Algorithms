@@ -44,6 +44,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1732-find-the-highest-altitude](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -65,6 +66,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0383-ransom-note](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0383-ransom-note) |
 | [0460-lfu-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0460-lfu-cache) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -158,6 +160,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0010-regular-expression-matching](https://github.com/mayo-byte07/DSA-Python/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/mayo-byte07/DSA-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -441,4 +444,8 @@ I AM JUST TESTING MY HANDS ON DSA
 | ------- |
 | [0146-lru-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0460-lfu-cache) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
