@@ -133,6 +133,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | ------- |
 | [0020-valid-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0739-daily-temperatures](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
@@ -397,6 +398,7 @@ I AM JUST TESTING MY HANDS ON DSA
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -404,6 +406,7 @@ I AM JUST TESTING MY HANDS ON DSA
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -412,6 +415,7 @@ I AM JUST TESTING MY HANDS ON DSA
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
