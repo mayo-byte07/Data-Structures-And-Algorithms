@@ -296,6 +296,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1280-students-and-examinations](https://github.com/mayo-byte07/DSA-Python/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/mayo-byte07/DSA-Python/tree/master/1341-movie-rating) |
+| [1667-fix-names-in-a-table](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
