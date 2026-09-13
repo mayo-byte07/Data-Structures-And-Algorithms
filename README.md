@@ -296,6 +296,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1204-last-person-to-fit-in-the-bus](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/mayo-byte07/DSA-Python/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/mayo-byte07/DSA-Python/tree/master/1341-movie-rating) |
 | [1527-patients-with-a-condition](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1667-fix-names-in-a-table) |
