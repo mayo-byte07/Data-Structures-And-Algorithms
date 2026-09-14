@@ -307,6 +307,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1484-group-sold-products-by-the-date](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1527-patients-with-a-condition) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1729-find-followers-count) |
