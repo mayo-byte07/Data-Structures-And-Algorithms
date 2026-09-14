@@ -292,6 +292,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0619-biggest-single-number](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/mayo-byte07/DSA-Python/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/mayo-byte07/DSA-Python/tree/master/1045-customers-who-bought-all-products) |
+| [1068-product-sales-analysis-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1164-product-price-at-a-given-date) |
