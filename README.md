@@ -80,6 +80,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0067-add-binary](https://github.com/mayo-byte07/DSA-Python/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mayo-byte07/DSA-Python/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mayo-byte07/DSA-Python/tree/master/0070-climbing-stairs) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayo-byte07/DSA-Python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -227,6 +228,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Manacher
 |  |
 | ------- |
@@ -244,6 +246,7 @@ I AM JUST TESTING MY HANDS ON DSA
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
@@ -402,6 +405,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0724-find-pivot-index) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1732-find-the-highest-altitude) |
 ## Design
 |  |
