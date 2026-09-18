@@ -336,6 +336,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1741-find-total-time-spent-by-each-employee](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1789-primary-department-for-each-employee) |
+| [1795-rearrange-products-table](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1934-confirmation-rate) |
