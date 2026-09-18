@@ -328,6 +328,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1661-average-time-of-process-per-machine](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1741-find-total-time-spent-by-each-employee) |
