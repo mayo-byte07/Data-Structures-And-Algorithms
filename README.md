@@ -25,6 +25,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0066-plus-one](https://github.com/mayo-byte07/DSA-Python/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -230,6 +231,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0053-maximum-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mayo-byte07/DSA-Python/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
