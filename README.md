@@ -19,6 +19,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayo-byte07/DSA-Python/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
@@ -62,6 +63,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0013-roman-to-integer](https://github.com/mayo-byte07/DSA-Python/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mayo-byte07/DSA-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
@@ -362,6 +364,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mayo-byte07/DSA-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
@@ -423,6 +426,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0994-rotting-oranges](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -516,4 +520,12 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
