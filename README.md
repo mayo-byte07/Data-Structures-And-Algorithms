@@ -477,6 +477,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0112-path-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -499,6 +500,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0112-path-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -543,5 +545,6 @@ I AM JUST TESTING MY HANDS ON DSA
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
