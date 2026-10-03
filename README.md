@@ -129,6 +129,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0383-ransom-note](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0649-dota2-senate) |
 | [0940-distinct-subsequences-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -155,6 +156,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0094-binary-tree-inorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
@@ -186,6 +188,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0010-regular-expression-matching](https://github.com/mayo-byte07/DSA-Python/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/mayo-byte07/DSA-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
