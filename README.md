@@ -135,6 +135,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1768-merge-strings-alternately](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
+| [2390-removing-stars-from-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayo-byte07/DSA-Python/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -156,6 +157,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0739-daily-temperatures](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -414,6 +416,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | ------- |
 | [0067-add-binary](https://github.com/mayo-byte07/DSA-Python/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
+| [2390-removing-stars-from-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
