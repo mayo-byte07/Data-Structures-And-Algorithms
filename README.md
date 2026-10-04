@@ -25,6 +25,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0053-maximum-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/mayo-byte07/DSA-Python/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0119-pascals-triangle-ii) |
@@ -201,6 +202,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayo-byte07/DSA-Python/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mayo-byte07/DSA-Python/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
@@ -452,6 +454,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | ------- |
 | [0036-valid-sudoku](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0994-rotting-oranges](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
