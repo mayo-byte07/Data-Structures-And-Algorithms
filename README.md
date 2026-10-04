@@ -40,6 +40,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0283-move-zeroes](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0605-can-place-flowers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
@@ -315,6 +316,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0011-container-with-most-water](https://github.com/mayo-byte07/DSA-Python/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0605-can-place-flowers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
