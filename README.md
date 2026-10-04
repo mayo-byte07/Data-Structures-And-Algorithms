@@ -34,6 +34,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0216-combination-sum-iii) |
@@ -455,6 +456,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -466,6 +468,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0036-valid-sudoku](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0994-rotting-oranges](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -523,6 +526,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0144-binary-tree-preorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -610,4 +614,8 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
