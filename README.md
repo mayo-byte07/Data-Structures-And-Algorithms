@@ -260,6 +260,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0118-pascals-triangle](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
@@ -493,6 +494,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0101-symmetric-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0450-delete-node-in-a-bst) |
@@ -505,6 +507,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0101-symmetric-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -516,6 +519,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0101-symmetric-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0450-delete-node-in-a-bst) |
@@ -565,4 +569,8 @@ I AM JUST TESTING MY HANDS ON DSA
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
