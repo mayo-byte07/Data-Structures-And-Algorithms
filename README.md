@@ -127,6 +127,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0058-length-of-last-word](https://github.com/mayo-byte07/DSA-Python/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mayo-byte07/DSA-Python/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -267,6 +268,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0032-longest-valid-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mayo-byte07/DSA-Python/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0119-pascals-triangle-ii) |
