@@ -141,6 +141,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0649-dota2-senate](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -173,6 +174,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0739-daily-temperatures](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
@@ -183,6 +185,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0032-longest-valid-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Linked List
 |  |
@@ -328,6 +331,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0649-dota2-senate](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 ## Database
 |  |
