@@ -135,6 +135,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0208-implement-trie-prefix-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0394-decode-string) |
@@ -415,6 +416,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0040-combination-sum-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -470,6 +472,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0199-binary-tree-right-side-view](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0994-rotting-oranges](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
