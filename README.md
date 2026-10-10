@@ -55,6 +55,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1732-find-the-highest-altitude](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3524-find-x-value-of-array-i) |
@@ -226,6 +227,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0209-minimum-size-subarray-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
@@ -325,6 +327,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -338,6 +341,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Database
 |  |
 | ------- |
@@ -426,6 +430,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mayo-byte07/DSA-Python/tree/master/0023-merge-k-sorted-lists) |
 | [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
