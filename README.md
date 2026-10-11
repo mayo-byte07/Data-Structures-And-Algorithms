@@ -38,6 +38,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0209-minimum-size-subarray-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
@@ -516,6 +517,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
