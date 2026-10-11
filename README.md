@@ -39,6 +39,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0605-can-place-flowers) |
@@ -345,6 +346,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayo-byte07/DSA-Python/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0605-can-place-flowers) |
@@ -657,4 +659,8 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
