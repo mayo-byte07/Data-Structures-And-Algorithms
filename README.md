@@ -67,6 +67,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [3483-unique-3-digit-even-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
@@ -94,6 +95,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -347,6 +349,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
