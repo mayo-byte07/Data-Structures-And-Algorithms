@@ -2,7 +2,7 @@
 I AM JUST TESTING MY HANDS ON DSA 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Array
+## Array.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayo-byte07/DSA-Python/tree/master/0001-two-sum) |
