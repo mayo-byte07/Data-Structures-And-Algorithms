@@ -109,6 +109,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0009-palindrome-number](https://github.com/mayo-byte07/DSA-Python/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mayo-byte07/DSA-Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mayo-byte07/DSA-Python/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mayo-byte07/DSA-Python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mayo-byte07/DSA-Python/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mayo-byte07/DSA-Python/tree/master/0069-sqrtx) |
@@ -307,6 +308,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0022-generate-parentheses](https://github.com/mayo-byte07/DSA-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mayo-byte07/DSA-Python/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0115-distinct-subsequences) |
@@ -344,6 +346,7 @@ I AM JUST TESTING MY HANDS ON DSA
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
