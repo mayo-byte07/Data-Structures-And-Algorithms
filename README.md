@@ -52,6 +52,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
+| [1254-number-of-closed-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -533,6 +534,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0301-remove-invalid-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0994-rotting-oranges](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -544,6 +546,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0200-number-of-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0994-rotting-oranges](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
@@ -606,6 +609,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0207-course-schedule](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -698,6 +702,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Longest Increasing Subsequence
 |  |
