@@ -1,4 +1,4 @@
-# DSA-Python
+# DSA in Python
 I AM JUST TESTING MY HANDS ON DSA 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
