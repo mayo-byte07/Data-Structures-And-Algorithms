@@ -231,6 +231,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0328-odd-even-linked-list](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mayo-byte07/DSA-Python/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -304,6 +305,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0443-string-compression](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
