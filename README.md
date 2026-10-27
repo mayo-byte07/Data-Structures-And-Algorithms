@@ -228,6 +228,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0141-linked-list-cycle](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mayo-byte07/DSA-Python/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
