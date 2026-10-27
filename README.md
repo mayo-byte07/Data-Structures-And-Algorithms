@@ -206,6 +206,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
@@ -232,6 +233,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0460-lfu-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mayo-byte07/DSA-Python/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -306,6 +308,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1679-max-number-of-k-sum-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
