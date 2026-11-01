@@ -43,6 +43,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0334-increasing-triplet-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0605-can-place-flowers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -117,6 +118,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0067-add-binary](https://github.com/mayo-byte07/DSA-Python/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mayo-byte07/DSA-Python/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mayo-byte07/DSA-Python/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
