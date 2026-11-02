@@ -51,6 +51,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0724-find-pivot-index](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
@@ -341,6 +342,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0435-non-overlapping-intervals](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1143-longest-common-subsequence) |
