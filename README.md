@@ -614,6 +614,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0199-binary-tree-right-side-view](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -632,6 +633,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0200-number-of-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0872-leaf-similar-trees](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -649,6 +651,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0199-binary-tree-right-side-view](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Floyd's Cycle Finding Algorithm
