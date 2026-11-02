@@ -69,6 +69,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [2089-find-target-indices-after-sorting-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2352-equal-row-and-column-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -108,6 +109,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1679-max-number-of-k-sum-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -539,6 +541,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0067-add-binary](https://github.com/mayo-byte07/DSA-Python/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
+| [2352-equal-row-and-column-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
@@ -578,6 +581,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0994-rotting-oranges](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2352-equal-row-and-column-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
