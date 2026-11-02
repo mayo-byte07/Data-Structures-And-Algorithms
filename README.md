@@ -65,6 +65,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -102,6 +103,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
