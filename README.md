@@ -54,6 +54,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0735-asteroid-collision](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
@@ -276,6 +277,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0162-find-peak-element](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
