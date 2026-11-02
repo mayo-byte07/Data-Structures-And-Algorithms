@@ -127,6 +127,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
@@ -345,6 +346,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0746-min-cost-climbing-stairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0940-distinct-subsequences-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -544,6 +546,7 @@ I AM JUST TESTING MY HANDS ON DSA
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mayo-byte07/DSA-Python/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
