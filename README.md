@@ -61,6 +61,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1207-unique-number-of-occurrences](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -282,6 +283,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0875-koko-eating-bananas](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -332,6 +334,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0345-reverse-vowels-of-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0443-string-compression) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -410,6 +413,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1268-search-suggestions-system](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1268-search-suggestions-system) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
