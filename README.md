@@ -75,6 +75,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
+| [2747-count-zero-request-servers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -116,6 +117,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
+| [2747-count-zero-request-servers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -312,6 +314,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2747-count-zero-request-servers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayo-byte07/DSA-Python/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Two Pointers
 |  |
@@ -419,6 +422,7 @@ I AM JUST TESTING MY HANDS ON DSA
 | [2089-find-target-indices-after-sorting-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3886-sum-of-sortable-integers) |
