@@ -1,5 +1,7 @@
-# DSA in Python
-I AM JUST TESTING MY HANDS ON DSA 
+<div align="center">
+# 🐍 Master Data Structures & Algorithms in Python 
+<p><i>My personal repository for testing my hands on DSA, practicing problem-solving, and tracking my LeetCode journey.</i></p> 
+</div>  
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array.
