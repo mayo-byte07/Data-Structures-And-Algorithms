@@ -89,6 +89,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -380,6 +381,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
