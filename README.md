@@ -88,6 +88,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -247,6 +248,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2390-removing-stars-from-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -330,6 +332,7 @@
 | [2747-count-zero-request-servers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayo-byte07/DSA-Python/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -660,6 +663,7 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Data Stream
 |  |
 | ------- |
@@ -742,10 +746,12 @@
 | [0649-dota2-senate](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0933-number-of-recent-calls) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
 |  |
 | ------- |
@@ -827,6 +833,7 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Fermat's Little Theorem
 |  |
