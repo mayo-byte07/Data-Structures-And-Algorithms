@@ -84,6 +84,7 @@
 | [2747-count-zero-request-servers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
@@ -391,6 +392,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3524-find-x-value-of-array-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -442,6 +444,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3886-sum-of-sortable-integers) |
