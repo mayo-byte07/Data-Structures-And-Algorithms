@@ -48,6 +48,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
