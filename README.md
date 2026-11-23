@@ -66,6 +66,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
