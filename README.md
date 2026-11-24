@@ -92,6 +92,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -136,6 +137,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2352-equal-row-and-column-pairs) |
 | [2747-count-zero-request-servers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -230,6 +232,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mayo-byte07/DSA-Python/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
@@ -709,6 +712,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -733,6 +737,7 @@
 | [1267-count-servers-that-communicate](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
