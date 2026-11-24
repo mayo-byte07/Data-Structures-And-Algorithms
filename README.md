@@ -128,6 +128,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0383-ransom-note) |
 | [0460-lfu-cache](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0460-lfu-cache) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1657-determine-if-two-strings-are-close](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1657-determine-if-two-strings-are-close) |
@@ -156,6 +157,7 @@
 | [0070-climbing-stairs](https://github.com/mayo-byte07/DSA-Python/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
@@ -880,4 +882,8 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
