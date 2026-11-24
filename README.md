@@ -162,6 +162,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2409-count-days-spent-together) |
+| [2485-find-the-pivot-integer](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2485-find-the-pivot-integer) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3524-find-x-value-of-array-i) |
@@ -663,6 +664,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2485-find-the-pivot-integer) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 ## Design
 |  |
