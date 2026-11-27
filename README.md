@@ -151,6 +151,7 @@
 | [0009-palindrome-number](https://github.com/mayo-byte07/DSA-Python/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mayo-byte07/DSA-Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mayo-byte07/DSA-Python/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mayo-byte07/DSA-Python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mayo-byte07/DSA-Python/tree/master/0067-add-binary) |
@@ -299,6 +300,7 @@
 | [0002-add-two-numbers](https://github.com/mayo-byte07/DSA-Python/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/mayo-byte07/DSA-Python/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/mayo-byte07/DSA-Python/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
