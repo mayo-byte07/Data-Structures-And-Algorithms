@@ -167,6 +167,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1927-sum-game](https://github.com/mayo-byte07/DSA-Python/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2485-find-the-pivot-integer) |
@@ -415,6 +416,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3524-find-x-value-of-array-i](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/3524-find-x-value-of-array-i) |
@@ -444,6 +446,7 @@
 | [0062-unique-paths](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/mayo-byte07/Data-Structures-And-Algorithms/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayo-byte07/DSA-Python/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
